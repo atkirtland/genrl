@@ -1,0 +1,9 @@
+[deps]
+Gen = "ea4f424c-a589-11e8-07c0-fd5c91b9da4a"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+POMDPModels = "355abbd5-f08e-5560-ac9e-8b5f2592a0ca"
+POMDPTools = "7588e00f-9cae-40de-98dc-e0c70c48cdd7"
+POMDPs = "a93abf59-7444-517b-a68a-c42f96afdd7d"
+QMDP = "3aa3ecc9-5a5d-57c8-8188-3e47bd8068d2"
+QuickPOMDPs = "8af83fb2-a731-493c-9049-9e19dbce6165"
+Turing = "fce5fe82-541a-59a6-adf8-730c64b5f9a0"
